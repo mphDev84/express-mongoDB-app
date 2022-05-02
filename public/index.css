@@ -1,0 +1,17 @@
+body{
+    color:blue;
+    background-color: azure;
+}
+table tr th{
+    padding-left: 20px;
+    border:1px solid black;
+}
+
+table tr td{
+    padding-left: 20px;
+    border:1px solid black;
+}
+#textArea{
+    font-weight: bolder;
+    color:rgb(2, 2, 66);
+}
